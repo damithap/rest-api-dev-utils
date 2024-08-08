@@ -1,0 +1,11 @@
+{
+  "name": "rest-api-dev-utils",
+  "version": "1.0.0",
+  "description": "Util collection for REST API development and testing",
+  "main": "index.js",
+  "dependencies": {
+    "commander": "^12.1.0",
+    "postman-collection": "^4.5.0"
+  }
+  
+}
